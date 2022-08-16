@@ -1,0 +1,10 @@
+{
+  "db": "mongodb://localhost/FamilyMart",
+  "jwt": "SomeKey",
+  "prod": "mongodb+srv://arqam:arqam@mern1-siiuo.mongodb.net/FamilyMart",
+  "base":"https://trakouts.com",
+  "base1":"http://localhost:3000",
+  "trakoutsGmailPassword":"fiverr123!",
+  "trakoutsGmail":"trakouts@gmail.com"
+
+}
